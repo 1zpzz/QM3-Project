@@ -1,0 +1,63 @@
+Income inequality (Gini Coefficient)
+Indicator,Income inequality (Gini Coefficient),
+Source,"U.S. Census Bureau's American Community Survey (ACS) tables via data.census.gov.<br />
+<br />
+Suggested Citation:<br />
+SHADAC analysis of [DATA SOURCE], State Health Compare, SHADAC, University of Minnesota, statehealthcompare.shadac.org, Accessed [DATE].",
+Notes,"Data are not available for 2020. Data collection for the 2020 American Community Survey (ACS) was substantially disrupted by the the COVID-19 pandemic, leading to measurable data quality issues in the 2020 survey. As a result, the U.S. Census Bureau chose not to release standard, 1-year estimates from the 2020 ACS. More information is available <a href=https://www.census.gov/newsroom/press-releases/2021/changes-2020-acs-1-year.html"">via the Census Bureau</a>.""",
+Description,Measurement of disparities in income in each state. Higher values indicate more income inequality with 0 indicating perfect equality and 1 indicating perfect inequality.,
+,,
+,,
+Fips,Location,Data
+1,Alabama,0.4771
+2,Alaska,0.4492
+4,Arizona,0.465
+5,Arkansas,0.474
+6,California,0.487
+8,Colorado,0.4575
+9,Connecticut,0.4954
+10,Delaware,0.4557
+11,Dist. of Columbia,0.5163
+12,Florida,0.4829
+13,Georgia,0.4787
+15,Hawaii,0.4512
+16,Idaho,0.4404
+17,Illinois,0.481
+18,Indiana,0.4536
+19,Iowa,0.4464
+20,Kansas,0.4518
+21,Kentucky,0.4759
+22,Louisiana,0.4967
+23,Maine,0.4509
+24,Maryland,0.4561
+25,Massachusetts,0.4879
+26,Michigan,0.4658
+27,Minnesota,0.4541
+28,Mississippi,0.4843
+29,Missouri,0.4608
+30,Montana,0.4601
+31,Nebraska,0.4634
+32,Nevada,0.4632
+33,New Hampshire,0.4446
+34,New Jersey,0.4794
+35,New Mexico,0.4771
+36,New York,0.5157
+37,North Carolina,0.4732
+38,North Dakota,0.4451
+39,Ohio,0.4695
+40,Oklahoma,0.4737
+41,Oregon,0.4636
+42,Pennsylvania,0.4774
+44,Rhode Island,0.4661
+45,South Carolina,0.4715
+46,South Dakota,0.462
+47,Tennessee,0.476
+48,Texas,0.479
+49,Utah,0.4225
+50,Vermont,0.4549
+51,Virginia,0.4723
+53,Washington,0.4703
+54,West Virginia,0.4679
+55,Wisconsin,0.4479
+56,Wyoming,0.4455
+US,United States,0.4828

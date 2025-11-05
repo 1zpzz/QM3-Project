@@ -1,0 +1,151 @@
+Gini Index coefficient - distribution of family income
+name,slug,value,date_of_information
+Namibia,namibia,59.1,2015
+Botswana,botswana,54.9,2015
+Eswatini,eswatini,54.6,2016
+Colombia,colombia,53.9,2023
+Brazil,brazil,51.6,2023
+Zambia,zambia,51.5,2022
+Angola,angola,51.3,2018
+Saint Lucia,saint-lucia,51.2,2016
+Mozambique,mozambique,50.3,2019
+Zimbabwe,zimbabwe,50.3,2020
+Kosovo,kosovo,49.4,2021
+Panama,panama,48.9,2023
+Honduras,honduras,46.8,2023
+Singapore,singapore,45.8,2016
+Costa Rica,costa-rica,45.8,2024
+Guatemala,guatemala,45.2,2023
+Lesotho,lesotho,44.9,2017
+"Congo, Democratic Republic of the",congo-democratic-republic-of-the,44.7,2020
+Ecuador,ecuador,44.6,2023
+Turkey (Turkiye),turkey-turkiye,44.5,2022
+Paraguay,paraguay,44.4,2023
+South Sudan,south-sudan,44,2016
+Grenada,grenada,43.8,2018
+Rwanda,rwanda,43.7,2016
+Mexico,mexico,43.5,2022
+Ghana,ghana,43.5,2016
+Chile,chile,43,2022
+Central African Republic,central-african-republic,43,2021
+Uganda,uganda,42.7,2019
+Cabo Verde,cabo-verde,42.4,2015
+Argentina,argentina,42.4,2023
+Cameroon,cameroon,42.2,2021
+Bolivia,bolivia,42.1,2023
+United States,united-states,41.8,2023
+Djibouti,djibouti,41.6,2017
+Uruguay,uruguay,40.9,2023
+Sao Tome and Principe,sao-tome-and-principe,40.7,2017
+Malaysia,malaysia,40.7,2021
+Peru,peru,40.7,2023
+Tanzania,tanzania,40.5,2018
+Belize,belize,39.9,2018
+Jamaica,jamaica,39.9,2021
+El Salvador,el-salvador,39.8,2023
+Philippines,philippines,39.3,2023
+Suriname,suriname,39.2,2022
+Laos,laos,38.8,2018
+"Gambia, The",gambia-the,38.8,2020
+Kenya,kenya,38.7,2021
+Malawi,malawi,38.5,2019
+Equatorial Guinea,equatorial-guinea,38.5,2022
+Dominican Republic,dominican-republic,38.4,2023
+Bulgaria,bulgaria,38.2,2022
+Gabon,gabon,38,2017
+Togo,togo,37.9,2021
+Israel,israel,37.9,2021
+Sri Lanka,sri-lanka,37.7,2019
+Burundi,burundi,37.5,2020
+Chad,chad,37.4,2022
+Burkina Faso,burkina-faso,37.4,2021
+Mauritius,mauritius,36.8,2017
+Lithuania,lithuania,36.6,2022
+West Bank,west-bank,36.4,2023
+Gaza Strip,gaza-strip,36.4,2023
+Portugal,portugal,36.3,2022
+Senegal,senegal,36.2,2021
+Vietnam,vietnam,36.1,2022
+Iran,iran,35.9,2023
+Sierra Leone,sierra-leone,35.7,2018
+China,china,35.7,2021
+Mali,mali,35.7,2021
+Marshall Islands,marshall-islands,35.5,2019
+Cote d'Ivoire,cote-divoire,35.3,2021
+Liberia,liberia,35.3,2016
+Qatar,qatar,35.1,2017
+Russia,russia,35.1,2021
+Nigeria,nigeria,35.1,2018
+Indonesia,indonesia,34.9,2024
+Georgia,georgia,34.8,2023
+Malta,malta,34.6,2022
+Uzbekistan,uzbekistan,34.5,2023
+Benin,benin,34.4,2021
+Montenegro,montenegro,34.3,2021
+Australia,australia,34.3,2018
+Barbados,barbados,34.1,2016
+Luxembourg,luxembourg,34.1,2022
+Tajikistan,tajikistan,34,2015
+Taiwan,taiwan,33.9,2023
+Switzerland,switzerland,33.8,2021
+Tunisia,tunisia,33.7,2021
+Latvia,latvia,33.7,2022
+Italy,italy,33.7,2022
+Spain,spain,33.6,2022
+North Macedonia,north-macedonia,33.5,2019
+Thailand,thailand,33.5,2023
+Greece,greece,33.4,2022
+Guinea-Bissau,guinea-bissau,33.4,2021
+Bangladesh,bangladesh,33.4,2022
+Niger,niger,32.9,2021
+"Korea, South",korea-south,32.9,2021
+Serbia,serbia,32.8,2022
+Germany,germany,32.4,2020
+United Kingdom,united-kingdom,32.4,2021
+Romania,romania,32.3,2022
+Japan,japan,32.3,2020
+Vanuatu,vanuatu,32.3,2019
+Estonia,estonia,32.3,2022
+Seychelles,seychelles,32.1,2018
+Mauritania,mauritania,32,2019
+Sweden,sweden,31.6,2022
+Cyprus,cyprus,31.5,2022
+Mongolia,mongolia,31.4,2022
+France,france,31.2,2022
+Ethiopia,ethiopia,31.1,2021
+Austria,austria,30.9,2022
+Fiji,fiji,30.7,2019
+Burma,burma,30.7,2017
+Hungary,hungary,30.2,2022
+Nepal,nepal,30,2022
+Croatia,croatia,30,2022
+Ireland,ireland,29.9,2022
+Canada,canada,29.9,2020
+Iraq,iraq,29.8,2023
+Pakistan,pakistan,29.6,2018
+Guinea,guinea,29.6,2018
+Albania,albania,29.4,2020
+Maldives,maldives,29.3,2019
+Denmark,denmark,29.3,2022
+Kazakhstan,kazakhstan,29.2,2021
+Poland,poland,28.9,2022
+Egypt,egypt,28.5,2021
+Bhutan,bhutan,28.5,2022
+Finland,finland,27.9,2022
+Kiribati,kiribati,27.8,2019
+Armenia,armenia,27.2,2023
+Tonga,tonga,27.1,2021
+Norway,norway,26.9,2022
+Iceland,iceland,26.6,2018
+Syria,syria,26.6,2022
+Belgium,belgium,26.4,2022
+Kyrgyzstan,kyrgyzstan,26.4,2022
+United Arab Emirates,united-arab-emirates,26.4,2018
+Moldova,moldova,25.9,2022
+Czechia,czechia,25.9,2022
+Netherlands,netherlands,25.7,2021
+Ukraine,ukraine,25.6,2020
+India,india,25.5,2022
+Belarus,belarus,24.4,2020
+Slovenia,slovenia,24.3,2022
+Slovakia,slovakia,24.1,2022
